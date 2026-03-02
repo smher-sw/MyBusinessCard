@@ -36,5 +36,17 @@ namespace MyBusinessCard
             pictureBox1.Image = Properties.Resources.photo2;
         }
 
+        private void pictureBox1_MouseEnter(object sender, EventArgs e)
+        {
+            // 마우스가 사진 위에 올라가면 경계선 표시
+            pictureBox1.BorderStyle = BorderStyle.Fixed3D;
+        }
+
+        private void pictureBox1_MouseLeave(object sender, EventArgs e)
+        {
+            // 마우스가 사진에서 벗어나면 경계선 제거
+            pictureBox1.BorderStyle = BorderStyle.None;
+        }
+
     }
 }
