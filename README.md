@@ -5,7 +5,7 @@
 - 버튼 3개: 배경색 변경, 사진 변경, GitHub 연결 (브라우저 띄우기)
 
 ## 실행 화면
-(여기에 실행 중인 스크린샷이나 GIF를 마우스로 끌어다 넣으세요!)
+- 실행 스크린샷
 <img width="1257" height="757" alt="image" src="https://github.com/user-attachments/assets/ec57ef8e-3cc1-4621-b2b2-ca7cd56e56e3" />
 
 ## 구현 시 어려웠던 점
