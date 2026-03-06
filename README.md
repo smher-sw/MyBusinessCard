@@ -5,6 +5,7 @@
 
 ## 실행 화면
 (여기에 실행 중인 스크린샷이나 GIF를 마우스로 끌어다 넣으세요!)
+<img width="1257" height="757" alt="image" src="https://github.com/user-attachments/assets/ec57ef8e-3cc1-4621-b2b2-ca7cd56e56e3" />
 
 ## 구현 시 어려웠던 점
 - 버튼 클릭 시 랜덤 색상을 만드는 코드를 이해하는 것이 조금 어려웠지만,
